@@ -1,0 +1,11 @@
+.text-red {
+    color: red;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: left;
+}

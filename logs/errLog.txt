@@ -1,0 +1,3 @@
+20230804	19:29:42	2324909d-5683-4dd9-af8e-ea2ccaf5e3a7	Error: Not allowed by CORS. Origin: undefined
+20230804	19:30:49	278cd63c-77d3-4cd9-9206-237a6575ae44	Error: Not allowed by CORS. Origin: https://www.google.com
+20230804	19:30:49	a4fa4159-2a3e-440c-9b7d-12f2ea1db597	Error: Not allowed by CORS. Origin: https://www.google.com
